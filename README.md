@@ -34,8 +34,10 @@ Here are some of the projects I've been working on:
 I'm currently diving deeper into:
 
 - Cloud computing with AWS and Azure
-- LLM Development
-- Hardware design in Verilog and Cadence
+- LLM Development with DeepseekV3 and OpenAI ChatGPT
+- Hardware design VSLI in Verilog and Cadence
+- Multimedia Communication Systems
+-
 
 ## 💬 Ask me about
 
