@@ -37,7 +37,8 @@ I'm currently diving deeper into:
 - LLM Development with DeepseekV3 and OpenAI ChatGPT
 - Hardware design VSLI in Verilog and Cadence
 - Multimedia Communication Systems
--
+- Product Development
+- Computer & Data Networks
 
 ## 💬 Ask me about
 
