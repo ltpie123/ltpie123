@@ -8,9 +8,9 @@ I'm a passionate sudent with a keen interest in open-source projects, web develo
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** C, C++, Python, Verilog, 
-- **Learning:** Javascript, CSS, Tailwind
-- **Frameworks:** React, Node.js
+- **Languages:** C, C++, Python, Verilog, Lua, ASM
+- **Learning:** Javascript, Typescript, CSS, Tailwind
+- **Frameworks:** React Native
 - **Tools:** Git, Docker, Kubernetes, AWS, Azure, CI/CD, Vivado, Icarus, Vitus
 - **Databases:** MySQL
 
